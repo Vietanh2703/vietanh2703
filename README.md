@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate .NET enthusiast diving deep into building high-performance web apps and APIs.<br><br>Always turning theory into practice by crafting small projects—ASP.NET Core sites, RESTful services, and more.<br><br>Exploring the exciting world of AI and LLMs like oLlama.<br><br>Hands-on: Worker management service, chat box for specific profession, basic microservice system and so on.<br><br>😎 Constantly curious—believe real learning happens through doing and experimenting ! 😎
+Passionate .NET enthusiast diving deep into building high-performance web apps and APIs.<br><br>Always turning theory into practice by crafting small projects—ASP.NET Core sites, RESTful services, and more.<br><br>Exploring the exciting world of AI and LLMs like oLlama.<br><br>Hands-on: Worker management service, chat box for specific profession, basic microservice system and so on.<br><br>Love playing RPGs games and watching animes 🥳<br><br>😎 Constantly curious—believe real learning happens through doing and experimenting ! 😎
 
 
 ## 🌐 Socials:
